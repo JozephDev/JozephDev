@@ -14,5 +14,3 @@ I enjoy turning ideas into working products — from the first sketch to a polis
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
